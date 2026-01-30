@@ -219,22 +219,4 @@ Enhancements added:
 - Strategic business recommendations
 - Power BI dashboard template
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📞 Contact
-
-Questions or collaboration opportunities? Feel free to reach out!
-
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **Portfolio**: [yourportfolio.com]
-
----
-
 **⭐ If you found this project helpful, please consider giving it a star!**
