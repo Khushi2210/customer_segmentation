@@ -149,7 +149,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ### Run the Analysis
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/customer_segmentation.git
+git clone https://github.com/Khushi2210/customer_segmentation.git
 cd customer_segmentation
 
 # Launch Jupyter Notebook
@@ -201,10 +201,10 @@ jupyter notebook code/customer_segmentation_enhanced.ipynb
 
 ## 👤 About
 
-**Author**: [Your Name]  
+**Author**: Khushi Lalchandani 
 **Role**: Data Science | Decision Science | Analytics  
-**LinkedIn**: [Your LinkedIn]  
-**Email**: [Your Email]
+**LinkedIn**: (https://www.linkedin.com/in/khushi-lalchandani-829582282/)  
+**Email**: khushi00409@gmail.com
 
 ---
 
