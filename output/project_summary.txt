@@ -1,0 +1,40 @@
+
+CUSTOMER SEGMENTATION ENHANCED - PROJECT SUMMARY
+Generated: 2026-01-30 16:50:50
+
+DATASET OVERVIEW
+- Total Customers: 21,849
+- Total Revenue: $669,079,974.30
+- Analysis Period: Last 365 days
+- Countries: 18
+
+MACHINE LEARNING RESULTS
+- K-Means Clusters: 5
+- Silhouette Score: 0.643
+- Churn Model Accuracy: 1.000
+- ROC-AUC Score: 1.000
+
+BUSINESS METRICS
+- High-Risk Customers: 5,734 (26.2%)
+- At-Risk Revenue: $20,092,930.08
+- Average Customer Value: $30,622.91
+
+TOP SEGMENTS
+segment
+lost                   4256
+champions              3673
+hibernating            2704
+loyal customers        2120
+potential loyalists    1632
+Name: count, dtype: int64
+
+FILES GENERATED
+- rfm_enhanced.csv (main dataset)
+- kmeans_optimization.png
+- cluster_visualization.png
+- confusion_matrix.png
+- feature_importance.png
+- roc_curve.png
+- churn_by_segment.png
+- revenue_analysis.png
+- customer_distribution.png
